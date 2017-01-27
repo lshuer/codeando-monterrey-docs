@@ -8,52 +8,15 @@ Si alguno de los proyectos aquí listados no tiene proyecto en github ¡Necesita
 
 ###Observatorio Ciudadano de Accidentes Viales
 - *Organización*: Movimiento de Activación Ciudadana
+- *Nombre del proyecto: Vialy
 - *Objetivo del Proyecto*: Visualizar y mostrar los accidentes viales de la ZMM y sus Estadísticas
 - *Materia Prima*: Datos Abiertos de Accidentes Viales
 - *Target*: Ciudadano interesado en el tema, potencialmente afectado por problemas de vialidad
 - *Unidad de Éxito*: Interacciones en la plataforma
-- *Carpeta de Assets*: https://drive.google.com/drive/u/0/folders/0B7Tb1TEriMqTeEVxNjhfY2Q5cUE
-- *Plazo de Entrega Estimado*: 3 Meses
 - *Presupuesto*: Voluntariado
+- *Owner en Codeando Monterrey*: Ricardo Alanís
+- *Repo en Github*: https://github.com/CodeandoMonterrey/vialy
 - *Contacto ONG*: Luisa Peresbarbosa
-
-
-###Plataforma de Registro de Arboles
-- *Organización*: Bosque Urbano Méxioo
-- *Materia Prima*: Registro de Arboles
-- *Objetivo del Proyecto*: Crear un registro de arboles con las características del sitio actual, con una mayor eficiencia y escalabilidad
-- *Target*: Ciudadanos interesados en el ambiente y con intención de activación
-- *Unidad de Éxito*: Árboles Registrados
-- *Carpeta de Assets*: https://drive.google.com/drive/u/0/folders/0B7Tb1TEriMqTZ2plUDhGbmNLbW8
-- *Plazo de Entrega Estimado*: 3 Meses
-- *Presupuesto*: Voluntariado
-- *Contacto ONG*: Oswaldo Zurita/Miguel Salazar
-
-
-###EsPerzonal
-- *Organización*: Hacking Against Slavery
-- *Objetivo del Proyecto*: Visualización de datos del tráfico de Personas
-- *Materia Prima*: Datos sobre trata de personas obtenidas por un proyecto hermano
-- *Target*: Ciudadanos
-- *Unidad de Éxito*: Interacción en la página
-- *Carpeta de Assets*: https://drive.google.com/drive/u/0/folders/0B7Tb1TEriMqTVGtMdjRRUHU4eDQ
-- *Plazo de Entrega Estimado*: 3 Meses
-- *Presupuesto*: Voluntariado
-- *Contacto ONG*: Jessica Castillo
-
-
-###Observatorio de Precios del Mercado
-- *Organización*: Codeando Monterrey
-- *Materia Prima*: Datos del Sistema Nacional SNIIM
-- *Objetivo del Proyecto*: Crear un observatorio que utiice los datos disponibles en el SNIIM para el seguimiento de costos de la materia prima del país
-- *Target*: Vendedores y Consumidores para la comunicación del aumento de precios, Economistas para el tracking de los patrones de los productos
-- *Unidad de Éxito*: Interacción con la página
-- *Carpeta de Assets*: https://drive.google.com/drive/u/0/folders/0B7Tb1TEriMqTVHNqNEEzMEJHQ1E
-- *Plazo de Entrega Estimado*: 1 Mes
-- *Presupuesto*: Voluntariado
-- *Contacto ONG*: Ricardo Alanis
-- *Repo en Github*: https://github.com/ricalanis/Tizona
-
 
 ###Sitio de la Comunidad de Codeando Monterrey
 - *Organización*: Codeando Monterrey
@@ -61,8 +24,26 @@ Si alguno de los proyectos aquí listados no tiene proyecto en github ¡Necesita
 - *Materia Prima*: Listado de Proyectos y Eventos de la Comunidad
 - *Target*: Hackers Cívicos con intenciones de participar en la comunidad
 - *Unidad de Éxito*: Interacción con la Página
-- *Carpeta de Assets*: https://drive.google.com/drive/u/0/folders/0B7Tb1TEriMqTWlpRd3hrOVdFcVE
-- *Plazo de Entrega Estimado*: 1 Mes
 - *Presupuesto*: Voluntariado
 - *Owner en Codeando Monterrey*: Ramón Valles
 - *Repo en Github*: https://github.com/hackingmty/hackingmty.github.io
+
+###Historia de Taxi
+- *Organización*: Codeando Monterrey
+- *Objetivo del Proyecto*: Proyecto que a través de la apertura de datos busca reducir los niveles de inseguridad y corrupción en el servicio de taxis en México.
+- *Materia Prima*: Datos sobre padrón de taxis
+- *Target*: Cualquier ciudadano interesado en el tema de servicio de taxis
+- *Unidad de Éxito*: Número de visitas en la página
+- *Presupuesto*: Voluntariado
+- *Owner en Codeando Monterrey*: Edgar Gutierrez
+- *Repo en Github*: https://github.com/EdgarGtz/taxi-padron
+
+###Catastrophe
+- *Organización*: Codeando Monterrey
+- *Objetivo del Proyecto*: ETL (extraer, transformar y cargar datos) para la interacción de datos de catástrofe en la Ciudad de México para su uso con otras organizaciones. 
+- *Materia Prima*: Datos sobre catástrofes
+- *Target*: Cualquier ciudadano interesado en el tema de catástrofes y datos
+- *Unidad de Éxito*: Número de visitas en la plataforma
+- *Presupuesto*: Voluntariado
+- *Owner en Codeando Monterrey*: Ramón Valles 
+- *Repo en Github*: https://github.com/MrOutis/catastrophe
